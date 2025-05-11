@@ -1,19 +1,23 @@
 <div align="center">
   
 # **Hey, I'm Tanzim Ibn Patowary** 👨‍💻  
-### *Building the Future with Code & Coffee* ☕⚡  
+### *"Turning Coffee into Code & Dreams into Cloud-Native Reality"* ☕✨  
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00F7FF&width=435&lines=Full-Stack+Dev;AI%2FML+Enthusiast;Cloud+Native+Builder;Open-Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&pause=1000&color=FF00F7&width=500&lines=Full-Stack+Dev;AI%2FML+Enthusiast;Cloud+Wizard;Open-Source+Contributor;Java+Lover)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## **🔥 Tech Stack & Superpowers**  
-### **🚀 Languages & Frameworks**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+## **🌈 Tech Stack & Superpowers**  
+### **💻 Languages**  
+![Java](https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **🚀 Frameworks & Tools**  
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,36 +34,37 @@
 
 ---
 
-## **💻 Cool Projects I've Built**  
+## **🎨 Projects Showcase**  
 | Project | Tech Stack | Description |  
 |---------|------------|-------------|  
-| **[AI Chatbot](https://github.com/yourusername/ai-chatbot)** | Python, TensorFlow, Flask | 🤖 NLP-powered chatbot for customer support |  
-| **[Serverless API](https://github.com/yourusername/serverless-api)** | AWS Lambda, DynamoDB | ⚡ Scalable backend with zero servers |  
-| **[DevOps Pipeline](https://github.com/yourusername/devops-pipeline)** | Docker, GitHub Actions | 🛠 CI/CD automation for cloud deployments |  
+| **[Java Microservices](https://github.com/tanzimibnpatowary/java-microservices)** | Java, Spring Boot, Docker | 🏗 Scalable backend services with Spring Cloud |  
+| **[AI-Powered Chatbot](https://github.com/tanzimibnpatowary/ai-chatbot)** | Python, TensorFlow, Flask | 🤖 NLP chatbot with sentiment analysis |  
+| **[Serverless API](https://github.com/tanzimibnpatowary/serverless-api)** | AWS Lambda, DynamoDB | ⚡ Zero-maintenance REST API |  
 
 ---
 
-## **📊 GitHub Analytics**  
+## **📊 GitHub Stats - Rainbow Edition**  
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanzimibnpatowary&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanzimibnpatowary&show_icons=true&theme=merko&hide_border=true&bg_color=0D1117&title_color=FF00F7&icon_color=00F7FF&text_color=FFFFFF)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimibnpatowary&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimibnpatowary&layout=compact&theme=merko&hide_border=true&bg_color=0D1117&title_color=FF00F7&text_color=FFFFFF)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tanzimibnpatowary&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF)  
+![GitHub Streak](https://streak-stats.demolab.com?user=tanzimibnpatowary&theme=merko&hide_border=true&background=0D1117&stroke=FF00F7&ring=00F7FF&fire=FFD700)  
 
 </div>
 
 ---
 
-## **🌐 Let’s Connect & Collab!**  
+## **🌟 Let’s Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
 
 ---
 
-### **⚡ Fun Fact**  
-*"I once automated my coffee machine to brew when I commit code!"*  
+### **💡 Fun Fact**  
+*"I automated my coffee machine to brew when my CI/CD pipeline passes! ☕🤖"*  
 
 </div>
