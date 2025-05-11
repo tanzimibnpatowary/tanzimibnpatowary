@@ -34,9 +34,9 @@
 ## **💻 Cool Projects I've Built**  
 | Project | Tech Stack | Description |  
 |---------|------------|-------------|  
-| **[AI Chatbot](https://github.com/yourusername/ai-chatbot)** | Python, TensorFlow, Flask | 🤖 NLP-powered chatbot for customer support |  
-| **[Serverless API](https://github.com/yourusername/serverless-api)** | AWS Lambda, DynamoDB | ⚡ Scalable backend with zero servers |  
-| **[DevOps Pipeline](https://github.com/yourusername/devops-pipeline)** | Docker, GitHub Actions | 🛠 CI/CD automation for cloud deployments |  
+| **[AI Chatbot](https://github.com/tanzimibnpatowary/ai-chatbot)** | Python, TensorFlow, Flask | 🤖 NLP-powered chatbot for customer support |  
+| **[Serverless API](https://github.com/tanzimibnpatowary/serverless-api)** | AWS Lambda, DynamoDB | ⚡ Scalable backend with zero servers |  
+| **[DevOps Pipeline](https://github.com/tanzimibnpatowary/devops-pipeline)** | Docker, GitHub Actions | 🛠 CI/CD automation for cloud deployments |  
 
 ---
 
