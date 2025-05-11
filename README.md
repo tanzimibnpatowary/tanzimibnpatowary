@@ -1,6 +1,6 @@
 <div align="center">
   
-# **Hey, I'm [Your Name]** 👨‍💻  
+# **Hey, I'm Tanzim Ibn Patowary** 👨‍💻  
 ### *Building the Future with Code & Coffee* ☕⚡  
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00F7FF&width=435&lines=Full-Stack+Dev;AI%2FML+Enthusiast;Cloud+Native+Builder;Open-Source+Contributor)](https://git.io/typing-svg)
