@@ -45,7 +45,7 @@
   
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanzimibnpatowary&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?tanzimibnpatowary=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimibnpatowary&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)  
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=tanzimibnpatowary&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF)  
 
@@ -54,7 +54,9 @@
 ---
 
 ## **🌐 Let’s Connect & Collab!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanjimshaferi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF4088?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)  
 
 ---
 
