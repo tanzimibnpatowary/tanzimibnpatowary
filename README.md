@@ -1,10 +1,10 @@
 <div align="center">
   
-# **Hey, I'm [Tanzim Ibn Patowary]** 👨‍💻  
+# **Hey, I'm Tanzim Ibn Patowary** 👨‍💻  
 ### *Building the Future with Code & Coffee* ☕⚡  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00F7FF&width=435&lines=Full-Stack+Dev;AI%2FML+Enthusiast;Cloud+Native+Builder;Open-Source+Contributor)](https://git.io/typing-svg)
-
+<div align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&pause=1000&color=00F7FF&width=435&lines=Full-Stack+Dev;AI%2FML+Enthusiast;Cloud+Native+Builder;Open-Source+Contributor)](https://git.io/typing-svg)
+</div>
 </div>
 
 ---
@@ -42,11 +42,11 @@
 ## **📊 GitHub Analytics**  
 <div align="center">
   
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tanzimibnpatowary&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF)  
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzimibnpatowary&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF)  
+![GitHub Streak](https://streak-stats.demolab.com?user=tanzimibnpatowary&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF)  
 
 </div>
 
